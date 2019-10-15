@@ -1,0 +1,103 @@
+main{
+    margin-bottom: -2rem;
+}
+
+nav a i:hover{
+    cursor: pointer;
+    color: #894c1a;
+}
+
+nav li {
+    margin: 0px 30px;
+}
+
+nav li a {
+    color: white !important;
+}
+
+nav li a:hover {
+    color: #894c1a !important;
+}
+
+#main-image{
+    min-height: 550px;
+    background: url('./images/coffeestand.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.owners{
+    padding: 25px;
+    background: #894c1a;
+}
+
+figure{
+    display: inline-block;
+}
+
+.owner{
+    height: 200px;
+    width: 190px;
+    margin: 15px 50px;
+}
+
+.info-section{
+    margin-top: 75px;
+}
+
+.info-row{
+    margin: 25px 0px;
+}
+
+.info{
+    color: #894c1a;
+    font-weight: bold;
+}
+
+.menu {
+    height: 500px;
+    width: 400px;
+}
+
+.menu-button{
+    font-size: 30px;
+    width: 250px;
+}
+
+.location{
+    background: black;
+}
+
+.location-button:hover{
+    background: #894c1a;
+    color: white;
+    font-weight: bold;
+}
+
+.reservations{
+    margin: 0;
+    padding: 0;
+    background: #894c1a;
+}
+
+.reservations-img{
+    min-height: 350px;
+    background: url('./images/coffeetable.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+footer{
+    margin: 0 !important;
+}
+
+#footer-social-media i {
+    margin: 25px;
+}
+
+#footer-social-media i:hover{
+    cursor: pointer;
+    color: #894c1a;
+}
